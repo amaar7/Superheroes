@@ -10,7 +10,6 @@ working.
 Your job is to build out the Flask API to add the functionality described in the
 deliverables below.
 
-
 ## Setup
 
 To download the dependencies for the frontend and backend, run:
