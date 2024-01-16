@@ -1,5 +1,6 @@
 # Flask Code Challenge - Superheroes
 
+
 For this assessment, you'll be working on an API for tracking heroes and their
 superpowers.
 
